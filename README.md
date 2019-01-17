@@ -1,4 +1,4 @@
-# Mood Sports-Record Competition
+# Colorful Match Statistics 
 This is a app for statistics of competition.
 You can use this app to record any sporting events you want to record, and you can set up all the usual contestants in advance, so that you can start the competition statistics directly.
 App has two teams in each competition, each team has at most four players.
